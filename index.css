@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .main {
+    padding: 100px;
+    text-align: center;
+  }
+  
+  #screensaver {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.3);
+    display: none;
+  }
+  
+  #screensaver__image {
+    position: absolute;
+  }
+  
